@@ -6,5 +6,6 @@ This is repo is meant to track my progress on creating a portfolio. My goal with
 
 #### Tasks:
 - [x] Create Readme
+- [ ] Finish Free HTML Class
 - [ ] Create Basic HTML
 - [ ] Create Style Sheet
